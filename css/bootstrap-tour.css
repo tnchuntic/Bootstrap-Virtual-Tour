@@ -81,7 +81,7 @@
     padding: 0;
 }
 .popover[class*="tour-"] .popover-title{
-    background: #89252a url(../img/mediafox-header-branding.jpg) no-repeat;
+    background: #89252a url(../img/tour-header-branding.jpg) no-repeat;
     background-size: cover;
     color: #fff;
     text-shadow: 1px solid #999;
